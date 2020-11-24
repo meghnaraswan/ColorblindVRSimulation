@@ -36,5 +36,7 @@ sysinfo.txt
 Temp
 #Logs
 #Library/*.log
+.collabignore
+
  
  
