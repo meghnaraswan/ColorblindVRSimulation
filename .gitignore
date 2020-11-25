@@ -34,8 +34,8 @@ sysinfo.txt
 
 # custom ignores
 Temp
-#Logs
-#Library/*.log
+Logs
+Library/*.log
 .collabignore
 
  
